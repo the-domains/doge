@@ -1,14 +1,26 @@
-layout_spectrum: 0.6726151
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.5
 color:
   saturation: 0.03559629
-  lightness: 0.1848245
   brandStrength: 1
+  rhythmicContrast: 0.9012005
   brandColors:
     - '#E8DFB2'
     - '#CEBF91'
     - '#CFAB5C'
     - '#393831'
     - '#786444'
-  rhythmicContrast: 0.9012005
-typography_spectrum: 0
+  lightness: 0.1848245
+layout_spectrum: 0.9747583
 name: Doge
