@@ -1,0 +1,14 @@
+layout_spectrum: 0.6726151
+color:
+  saturation: 0.03559629
+  lightness: 0.1848245
+  brandStrength: 1
+  brandColors:
+    - '#E8DFB2'
+    - '#CEBF91'
+    - '#CFAB5C'
+    - '#393831'
+    - '#786444'
+  rhythmicContrast: 0.9012005
+typography_spectrum: 0
+name: Doge
