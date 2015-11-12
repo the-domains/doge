@@ -12,15 +12,15 @@ collections:
       number: 10
 typography_spectrum: 0.5
 color:
-  saturation: 0.03559629
+  saturation: 1
   brandStrength: 1
-  rhythmicContrast: 0.9012005
+  lightness: 0.4763695
   brandColors:
     - '#E8DFB2'
     - '#CEBF91'
     - '#CFAB5C'
     - '#393831'
     - '#786444'
-  lightness: 0.1848245
-layout_spectrum: 0.9747583
+  rhythmicContrast: 0.9012005
+layout_spectrum: 1
 name: Doge
