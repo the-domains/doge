@@ -4,8 +4,15 @@
         <description><![CDATA[Doge]]></description>
         <link>https://thegrid.ai/doge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 Nov 2015 00:50:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2015 00:55:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/doge/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Much photo editing]]></title>
+            <description><![CDATA[<article><h1>Much photo editing</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce0b8a41-6c9d-40b3-ad96-17167d3859d1.png"></article>]]></description>
+            <link>https://thegrid.ai/doge/much-photo-editing/index.html</link>
+            <guid isPermaLink="false">92ca2022-f4bc-4991-b5be-de39e4848600</guid>
+            <pubDate>Thu, 12 Nov 2015 00:54:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wow]]></title>
             <description><![CDATA[<article><h1>Wow</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d08df38-9144-47f8-b11f-0165364149ad.png"></article>]]></description>
