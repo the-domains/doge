@@ -4,7 +4,7 @@
         <description><![CDATA[Doge]]></description>
         <link>https://thegrid.ai/doge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Dec 2015 17:27:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Dec 2015 17:27:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/doge/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Very style]]></title>
@@ -15,7 +15,7 @@
         </item>
         <item>
             <title><![CDATA[So website]]></title>
-            <description><![CDATA[<article><h1>So website</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2391c243-2111-4c10-8c7e-2864e052720f.png"></article>]]></description>
+            <description><![CDATA[<article><h1>So website</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07558847d557606e39514e2e4dd5da9616000316.png"></article>]]></description>
             <link>https://thegrid.ai/doge/so-website/index.html</link>
             <guid isPermaLink="false">2f47883d-b7ff-4fca-ba5e-0dff68f343d5</guid>
             <pubDate>Mon, 07 Dec 2015 17:26:46 GMT</pubDate>
@@ -25,7 +25,7 @@
             <description><![CDATA[<article><h1>Many image edits</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c6f35a8fcffb6f9bf405af663fbfa02593b358f.png"></article>]]></description>
             <link>https://thegrid.ai/doge/many-image-edits/index.html</link>
             <guid isPermaLink="false">9b64322d-e8b2-472a-9d98-5ddc37d29c91</guid>
-            <pubDate>Mon, 07 Dec 2015 17:26:46 GMT</pubDate>
+            <pubDate>Mon, 07 Dec 2015 17:27:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
