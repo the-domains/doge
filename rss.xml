@@ -4,8 +4,15 @@
         <description><![CDATA[Doge]]></description>
         <link>https://thegrid.ai/doge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Dec 2015 17:37:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Dec 2015 17:37:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/doge/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wow]]></title>
+            <description><![CDATA[<article><h1>Wow</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bccb2206d378298e50e1a2b86d71e5a352e6a613.png"></article>]]></description>
+            <link>https://thegrid.ai/doge/wow/index.html</link>
+            <guid isPermaLink="false">120bd83a-0a29-4031-a557-31c5bd357225</guid>
+            <pubDate>Mon, 07 Dec 2015 17:36:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Very style]]></title>
             <description><![CDATA[<article><h1>Very style</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/67d3c7a77f6883321b93cfb64f87307457681fe1.png"></article>]]></description>
