@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2015-12-07T17:27:02.742Z'
+datePublished: '2015-12-07T17:27:19.312Z'
 publisher:
   domain: ''
   name: ''
 title: So website
-dateModified: '2015-12-07T17:26:46.269Z'
+dateModified: '2015-12-07T17:27:02.742Z'
 sourcePath: _posts/2015-12-07-so-website.md
 published: true
 inFeed: true
