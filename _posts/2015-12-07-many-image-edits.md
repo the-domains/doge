@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2015-12-07T17:27:02.289Z'
+datePublished: '2015-12-07T17:27:18.964Z'
 publisher:
   domain: ''
   name: ''
 title: Many image edits
-dateModified: '2015-12-07T17:26:46.020Z'
+dateModified: '2015-12-07T17:27:02.289Z'
 sourcePath: _posts/2015-12-07-many-image-edits.md
 published: true
 inFeed: true
