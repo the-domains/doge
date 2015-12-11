@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Doge]]></title>
         <description><![CDATA[Doge]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/doge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Dec 2015 15:06:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 11 Dec 2015 15:07:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/doge/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Such A.I.]]></title>
+            <description><![CDATA[<article><h1>Such A.I.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8891a9ea919bbaeb68aec9d484d8099df5ba8e55.png"></article>]]></description>
+            <link>https://thegrid.ai/doge/such-ai/index.html</link>
+            <guid isPermaLink="false">2ca1a6fb-1a28-4de2-b529-519e79daee82</guid>
+            <pubDate>Fri, 11 Dec 2015 15:06:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Many image edits]]></title>
             <description><![CDATA[<article><h1>Many image edits</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b7fa3a92a8b90c1f580c9eea119958708d8267f.png"></article>]]></description>
-            <link>undefinedmany-image-edits/index.html</link>
+            <link>https://thegrid.ai/doge/many-image-edits/index.html</link>
             <guid isPermaLink="false">d0a57693-a13a-4d61-a884-56f385d0cf4e</guid>
             <pubDate>Fri, 11 Dec 2015 15:06:33 GMT</pubDate>
         </item>
