@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.3163265
+typography_spectrum: 0.07912157662212849
 color:
-  saturation: 1
-  brandStrength: 1
-  rhythmicContrast: 0.9012005
+  saturation: 0.1792141404002905
+  brandStrength: 0.5890265656635165
+  rhythmicContrast: 0.9752128233667463
   brandColors:
-    - '#E8DFB2'
-    - '#CEBF91'
-    - '#CFAB5C'
-    - '#393831'
-    - '#786444'
-  lightness: 0.4763695
-layout_spectrum: 0.2132116
+    - '#703030'
+    - '#2F343B'
+    - '#7E827A'
+    - '#E3CDA4'
+    - '#C77966'
+  lightness: 0.048319268273189664
+layout_spectrum: 0.40976553270593286
 name: Doge
