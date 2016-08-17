@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.07912157662212849
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.1792141404002905
+  saturation: 0.5042965
   brandStrength: 0.5890265656635165
-  rhythmicContrast: 0.9752128233667463
+  lightness: 0.2518797
   brandColors:
     - '#703030'
     - '#2F343B'
     - '#7E827A'
     - '#E3CDA4'
     - '#C77966'
-  lightness: 0.048319268273189664
-layout_spectrum: 0.40976553270593286
+  rhythmicContrast: 0.2540279
+typography_spectrum: 0.07912157662212849
+layout_spectrum: 1
 name: Doge
